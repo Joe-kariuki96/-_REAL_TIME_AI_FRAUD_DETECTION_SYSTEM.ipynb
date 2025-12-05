@@ -130,11 +130,14 @@ Transaction amount
 These align strongly with real-world fraud detection patterns.
 
 ## 📁 Project Structure
+
 fraud-detection-system/
 │
+
 ├── data/
 │   └── transactions.csv
 │
+
 ├── notebooks/
 │   └── real_time_ai_fraud_detection_system.ipynb
 │
@@ -142,12 +145,15 @@ fraud-detection-system/
 │   ├── fraud_model.pkl
 │   └── scaler.pkl
 │
+
 ├── api/
 │   └── (FastAPI service - optional)
 │
+
 ├── dashboard/
 │   └── (Streamlit dashboard - optional)
 │
+
 └── README.md
 
 ## 🚀 Next Steps (Optional Enhancements)
